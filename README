@@ -1,0 +1,6 @@
+Simple learning project form Big Nerd Ranch Guide.
+Contains:
+1. Working with main activity (portrait and landscape layout)
+2. Working with ViewModel
+3. Starting another activity with external intent
+4. Toasts
